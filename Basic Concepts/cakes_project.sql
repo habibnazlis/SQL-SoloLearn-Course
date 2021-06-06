@@ -1,0 +1,2 @@
+SELECT name, calories FROM cakes
+ORDER BY calories LIMIT 3;
